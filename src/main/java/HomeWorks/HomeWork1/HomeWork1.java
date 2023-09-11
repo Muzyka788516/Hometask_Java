@@ -1,4 +1,4 @@
-package de.telran.lesson2;
+package HomeWorks.HomeWork1;
 
 public class HomeWork1 {
     public static void main(String[] args) {
