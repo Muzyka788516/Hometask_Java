@@ -6,10 +6,10 @@ public class myBankDemo {
 
         Bank myBank = new Bank(StartingBalance);
 
-        int days = myBank.DausUntilAccountsAreCompletelyEmpty();
+        int days = myBank.DausUntilAccountsAreCompletelyEmptu();
 
         System.out.println("Изначальный баланс: " + StartingBalance);
-        System.out.println("Для снятия всех денег нужно " + days +  " " + " дней");
+        System.out.println("Для снятия всех денег нужно: " + days +  " " + " дней");
         }
     }
 

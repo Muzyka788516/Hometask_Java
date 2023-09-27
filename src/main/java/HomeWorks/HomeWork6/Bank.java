@@ -10,7 +10,7 @@ public class Bank {
     public double getBalance() {
         return Balance;
     }
-    public int DausUntilAccountsAreCompletelyEmpty(){
+    public int DausUntilAccountsAreCompletelyEmptu(){
         int days = 0;
         while (Balance > 0){
             int MaximumWithdrawalAmount = (int) Balance;
